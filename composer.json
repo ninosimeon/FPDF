@@ -2,7 +2,7 @@
     "name": "ninosimeon/fpdf",
     "version": "1.0.0",
     "homepage": "http://www.fpdf.org",
-    "description": "FPDF es una clase PHP que permite generar PDFs, está basada en la librería http://fpdf.org/ créditos al mismo.",
+    "description": "FPDF es una clase PHP que permite generar PDFs, está basada en la librería http://fpdf.org/ versión 1.8.1 créditos al mismo.",
     "type": "library",
     "keywords": ["pdf", "fpdf"],
     "license": "no usage restriction",
